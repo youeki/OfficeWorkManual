@@ -18,7 +18,7 @@
 
 [google.com](URL)
 
-![ないとき](yama.png)
+![ないとき]()
 山
 
 
